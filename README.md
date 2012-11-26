@@ -1,4 +1,4 @@
 article-prozesse-vom-fliessband
 ===============================
 
-Source Code for JavaMagazin Article "Prozesse vom Fließband"
+Source Code for JavaMagazin Article "Prozesse vom Fließband".
